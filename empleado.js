@@ -1,2 +1,2 @@
 
-const name = 'Josimar conflicto 1 realizado en login'
+const name = 'Josimar conflicto 1 realizado en login - git'
